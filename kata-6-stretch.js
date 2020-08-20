@@ -1,4 +1,4 @@
-const repeatNumbers = function(data) {
+const repeatNumbers = function (data) {
   let repeated = [];
   for (let i = 0; i < data.length; i++) {
     let temp = "";
